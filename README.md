@@ -5,7 +5,7 @@ Unity LEGO Tutorials by Unity Technologies
 
 * Playing screenshot
   
-    <img src="Readme/PlaySceneView.png" style="width:500px"></img>
+    <img src="Docs/PlaySceneView.png" style="width:500px"></img>
 
 
 ## License
